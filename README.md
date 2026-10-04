@@ -146,9 +146,3 @@ AI was used to assist with:
 - Applying the C4 Model to software architecture.
 
 ---
-
-## 👨‍💻 Author
-
-**Koustubh Sampat Chorade**  
-**PRN:** 25UAM042  
-**02AML204 – Introduction to Artificial Intelligence**
